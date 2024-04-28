@@ -12,6 +12,11 @@ checking changes
 hi
 
 ddss
+gf
+fg
+f
+fg
+f
 
 53
 .dsd
